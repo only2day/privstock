@@ -6,7 +6,9 @@ configurations in the channel itself.
 # Commands
 All commands have a prefix of "privstock" which can be shortened to "ps"
 reload - This will make the bot get the most updated information of the stock and resend it to the chat.
+-
 info (item.ITEMNAME) - The bot will send the display name, full mincraft name, how much of it is in stock and history of it's stock.
+-
 edit (item.ITEMNAME) (minus/plus NUMBER) - This will edit the stock of the item specified.
 
 
