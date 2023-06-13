@@ -3,7 +3,7 @@ PrivStock Or Private Stock bot is a Discord bot that is only used for the server
 messages/embeds/pictures/files to the specified discord channel as coded. The user can also run commands for the bot manually to change
 configurations in the channel itself. 
 
-# Commands
+# Built-in Commands
 All commands have a prefix of "privstock" which can be shortened to "ps"
 
 reload - This will make the bot get the most updated information of the stock and resend it to the chat.
