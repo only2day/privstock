@@ -1,5 +1,5 @@
 ![Component 21](https://github.com/only2day/privstock/assets/136255956/ba13f964-bad5-419f-af3e-a33095597924)
-# PrivStock
+# 
 PrivStock Or Private Stock bot is a Discord bot that is made for specific servers. It is a bot that automatically sends auto-generated pictures of the stock of the shop that the owner has set in the dashboard to the specified discord channel. The user can also run commands for the bot manually to change configurations in the channel itself, other than the dashboard.
 
 ![Component 21 (1)](https://github.com/only2day/privstock/assets/136255956/104432a9-5de3-4d02-9a7b-8bf4148601ca)
